@@ -23,10 +23,6 @@ O circuito projetado utiliza o Raspberry Pi Pico como controlador principal. O t
 
 Este projeto serve como uma introdução ao design de PCBs e ao uso de microcontroladores em projetos eletrônicos. A partir deste circuito básico, é possível expandir e criar projetos mais complexos, adicionando sensores, módulos de comunicação, entre outros componentes, de acordo com as necessidades específicas de cada aplicação.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias no circuito, no layout da PCB ou na documentação do projeto. Juntos, podemos tornar este projeto ainda mais útil e acessível para a comunidade de eletrônica e IoT.
-
 ## Autor
 
 Desenvolvido por Murilo de Souza Prianti Silva
